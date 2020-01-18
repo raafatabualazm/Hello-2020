@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Repos/Hello 2020/Hello-2020/B - New Year and Ascent Sequence/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

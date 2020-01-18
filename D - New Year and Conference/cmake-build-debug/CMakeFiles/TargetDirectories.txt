@@ -1,0 +1,3 @@
+D:/Repos/Hello 2020/Hello-2020/D - New Year and Conference/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Repos/Hello 2020/Hello-2020/D - New Year and Conference/cmake-build-debug/CMakeFiles/D___New_Year_and_Conference.dir
+D:/Repos/Hello 2020/Hello-2020/D - New Year and Conference/cmake-build-debug/CMakeFiles/edit_cache.dir

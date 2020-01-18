@@ -1,0 +1,3 @@
+D:/Repos/Hello 2020/Hello-2020/B - New Year and Ascent Sequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Repos/Hello 2020/Hello-2020/B - New Year and Ascent Sequence/cmake-build-debug/CMakeFiles/B___New_Year_and_Ascent_Sequence.dir
+D:/Repos/Hello 2020/Hello-2020/B - New Year and Ascent Sequence/cmake-build-debug/CMakeFiles/edit_cache.dir

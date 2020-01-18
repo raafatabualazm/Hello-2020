@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\A___New_Year_and_Naming.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\A___New_Year_and_Naming.dir/objects.a @CMakeFiles\A___New_Year_and_Naming.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\A___New_Year_and_Naming.dir/objects.a -Wl,--no-whole-archive  -o A___New_Year_and_Naming.exe -Wl,--out-implib,libA___New_Year_and_Naming.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A___New_Year_and_Naming.dir\linklibs.rsp
